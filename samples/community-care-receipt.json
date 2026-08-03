@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0",
+  "incidentIdHash": "866fa65522e2c259be854b566527aba644c626e2c3cddd5c79e10a228f891e9e",
+  "action": "HUMAN_REVIEW",
+  "summaryCode": "PAUSE_AND_REVIEW",
+  "rationaleCode": "HIGH_SEVERITY",
+  "summary": "Pause any intervention and ask a trained creator or moderator to review the minimized pattern.",
+  "rationale": "The declared severity requires a human decision before any community action.",
+  "confidence": 0.72,
+  "requiresCreatorApproval": true,
+  "automatedEnforcement": false,
+  "mindsLiveVerified": false,
+  "source": "fixture",
+  "evidenceCode": "SYNTHETIC_FIXTURE_ONLY"
+}
