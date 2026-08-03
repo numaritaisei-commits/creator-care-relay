@@ -1,0 +1,10 @@
+{
+  "incidentId": "synthetic-incident-001",
+  "observedAt": "2026-08-04T00:00:00Z",
+  "channel": "creator-community",
+  "policyCategory": "targeted-harassment",
+  "severity": "high",
+  "recurrenceCount": 2,
+  "consentToAgent": true,
+  "rawText": "Synthetic report: @example_user posted repeated insults. A witness linked https://example.invalid/thread and wrote demo@example.invalid."
+}
